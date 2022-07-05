@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RICKUSH/static/css/main.58cd1085.css",
-    "main.js": "/RICKUSH/static/js/main.603e1ea6.js",
+    "main.js": "/RICKUSH/static/js/main.d4ae2788.js",
     "index.html": "/RICKUSH/index.html",
     "main.58cd1085.css.map": "/RICKUSH/static/css/main.58cd1085.css.map",
-    "main.603e1ea6.js.map": "/RICKUSH/static/js/main.603e1ea6.js.map"
+    "main.d4ae2788.js.map": "/RICKUSH/static/js/main.d4ae2788.js.map"
   },
   "entrypoints": [
     "static/css/main.58cd1085.css",
-    "static/js/main.603e1ea6.js"
+    "static/js/main.d4ae2788.js"
   ]
 }
